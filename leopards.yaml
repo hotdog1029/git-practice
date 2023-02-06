@@ -1,6 +1,6 @@
 team: Leopards
 
-manager: Luke
+manager: Peter
 
 members:
   - Linda
@@ -9,5 +9,8 @@ members:
   - Olivia
   - Evie
   - Dongho
+  - Drax
+  - Groot
+
 coach:
-  - Melissa
+  - Rocket
